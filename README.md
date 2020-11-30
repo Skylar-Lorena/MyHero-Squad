@@ -7,7 +7,7 @@ This is an app that allows you to recruit a well-balanced team of superheroes of
 * **Lorenah  Mbogo** 
 
 ## Demo
-<img src="./MyHero-Squad.png" width="1000px">
+<img src="./MyHero-Squad.png" width="100%">
 
 ## Getting Started
 
