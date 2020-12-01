@@ -14,22 +14,22 @@ public class HeroTest {
     @Test
     public void newHero_getName_String() {
         Hero newHero = Hero.setUpNewHero();
-        assertEquals("Arnold",newHero.getName());
+        assertEquals("Skylar",newHero.getName());
     }
     @Test
     public void newHero_getAge_Int() {
         Hero newHero = Hero.setUpNewHero();
-        assertEquals(23,newHero.getAge());
+        assertEquals(25,newHero.getAge());
     }
     @Test
     public void newHero_getPower_String() {
         Hero newHero = Hero.setUpNewHero();
-        assertEquals("flying",newHero.getPower());
+        assertEquals("Levitation",newHero.getPower());
     }
     @Test
     public void newHero_getWeakness_String() {
         Hero newHero = Hero.setUpNewHero();
-        assertEquals("fire",newHero.getWeakness());
+        assertEquals("Full Moon",newHero.getWeakness());
     }
     @Test
     public void newHero_getAllInstances_true() {

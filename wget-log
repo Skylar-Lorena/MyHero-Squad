@@ -1,0 +1,4 @@
+--2020-12-01 14:17:41--  https://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+Resolving www-us.apache.org (www-us.apache.org)... 40.79.78.1
+Connecting to www-us.apache.org (www-us.apache.org)|40.79.78.1|:443... connected.
+Unable to establish SSL connection.
