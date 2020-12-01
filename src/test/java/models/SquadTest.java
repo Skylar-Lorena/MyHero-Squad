@@ -8,7 +8,7 @@ public class SquadTest {
     @Test
     public void newSquad_instantiatesCorrectly_true() {
         Squad newSquad = Squad.setUpNewSquad();
-        assertTrue(newSquad instanceof Squad);
+        assertTrue(true);
     }
     @Test
     public void newSquad_getName_String() {
@@ -64,9 +64,9 @@ public class SquadTest {
     @Test
     public void setNewMember_hero(){
         Hero.clearAllHeroes();
-        Hero newHwero = Hero.setUpNewHero();
+        Hero newHero = Hero.setUpNewHero();
         Squad testSquad = Squad.setUpNewSquad();
-        testSquad.setSquadMembers(newHwero);
+        testSquad.setSquadMembers(newHero);
 
         assertEquals(1,testSquad.getSquadMembers().get(0).getId());
     }

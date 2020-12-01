@@ -74,9 +74,6 @@ public class App {
         post("/squad/new",(req,res)-> {
             Map<String, Object> model = new HashMap<>();
             String squadName = req.queryParams("squadName");
-            Integer size = Integer.parseInt(req.queryParams("size"));
-            String cause = req.queryParams("cause");
-            Squad newSquad = new Squad(squadName,size,cause);
             req.session().attribute("item",squadName);
             model.put("item",req.session().attribute("item"));
             return new ModelAndView(model,"success.hbs");
