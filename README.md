@@ -42,7 +42,7 @@ After cloning to your local machine navigate to the folder you cloned into and o
 
 | BEHAVIOR:Our program should handle |                  Input Example When it receives                   |           Output Example It should return           |
 | ---------------------------------- | :---------------------------------------------------------------: | :-------------------------------------------------: |
-| Add a new Squad                            |        Inputs:-maxSize="10" squadName="Avengers" squadCause="Infinity Stone"private String           |               A new squad has been added successfully               |
+| Add a new Squad                            |        Inputs:-maxSize="10" squadName="Avengers" squadCause="Infinity Stone"   |               A new squad has been added successfully               |
 | Add a new Hero                               |              Input:- heroName="Yasuke" heroAge="55" heroPower="Shape-Shifting Samurai" heroWeakness="Dragons"|         A new hero as been added successfully           |
 | Assign a hero to a squad                            |               Click add a squad             |                Hero is assigned to the squad               |
 | 
