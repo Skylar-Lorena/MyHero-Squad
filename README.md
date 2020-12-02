@@ -38,7 +38,7 @@ After cloning to your local machine navigate to the folder you cloned into and o
 * Navigate into the ``` src/main/java/App.java ``` and click run in intellij.
 * Go to your browser and type ``` localhost:4567 ```
 
-##BEHAVIOUR DRIVEN DEVELOPMENT
+## BEHAVIOUR DRIVEN DEVELOPMENT
 
 | BEHAVIOR:Our program should handle |                  Input Example When it receives                   |           Output Example It should return           |
 | ---------------------------------- | :---------------------------------------------------------------: | :-------------------------------------------------: |
