@@ -7,7 +7,8 @@ This is an app that allows you to recruit a well-balanced team of superheroes of
 * **Lorenah  Mbogo** 
 
 ## Demo
-<img src="./Screenshot from 2020-11-30 08-39-48.png" width="100%"/>
+
+![Screenshot from 2020-11-30 08-39-48](https://user-images.githubusercontent.com/64461513/166617985-7dffd775-dd98-4a5d-a3fa-a0b486f39017.png)
 
 ## Getting Started
 
