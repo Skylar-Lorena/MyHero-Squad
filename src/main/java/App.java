@@ -5,10 +5,15 @@ import spark.Request;
 import spark.Response;
 import spark.template.handlebars.HandlebarsTemplateEngine;
 
-import java.util.ArrayList;
+
 import java.util.HashMap;
 import java.util.Map;
 
+
+import java.util.ArrayList;
+
+
+import static spark.Spark.get;
 import static spark.Spark.*;
 
 public class App {

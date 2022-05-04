@@ -1,3 +1,5 @@
+//The Math.random() function returns a floating-point, pseudo-random number in the range 0 to less than 1 (inclusive of 0, but not 1)
+//The Math.floor() function returns the largest integer less than or equal to a given number.
 var stat = Math.floor(Math.random() * 100);
 var stat1 = Math.floor(Math.random() * 100);
 var stat2 = Math.floor(Math.random() * 100);
